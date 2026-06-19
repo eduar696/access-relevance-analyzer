@@ -1,0 +1,2 @@
+# Librerías para mejorar la salida en terminal
+tabulate
