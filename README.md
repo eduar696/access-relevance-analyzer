@@ -49,6 +49,6 @@ El proyecto utiliza una arquitectura modular diseñada para facilitar la auditor
 
 - groups.py: Identifica qué usuarios poseen privilegios elevados.
 
--risk.py: Aplica la lógica de evaluación para clasificar la amenaza.
+- risk.py: Aplica la lógica de evaluación para clasificar la amenaza.
 
 - main.py: Orquesta el flujo de trabajo y presenta los resultados.
